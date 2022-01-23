@@ -1,13 +1,13 @@
 # Lente y Pluma ✨
 
-<img src="/client/src/images/captura.PNG" style="max-height:100px">
+<img src="/client/src/images/Captura.PNG" style="max-height:100px">
 
 - [npm](https://www.npmjs.com/) - Package manager
 - [React](https://es.reactjs.org/) - Framework, npx create-react-app.
 
 ## Introduction
 
-Aplicación MERN para la UTN. Conciste de una web donde puedes compartir historias e imagenes.
+Aplicación MERN para la UTN. Consiste de una web donde puedes compartir historias e imagenes.
 
 Contiene registro de usuario, login y CRUD para los posts.
 
